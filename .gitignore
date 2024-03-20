@@ -70,3 +70,8 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+#misc
+/03-frontend/.vs/03-frontend/v16/.suo
+/03-frontend/.vs/*
+
